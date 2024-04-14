@@ -1,0 +1,98 @@
+body {
+    color: green;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #237602ac;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  nav li a:hover {
+    background-color: green;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  section h2 {
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: green;
+  }
+  
+  section p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  section ul {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  .itemImg {
+    display: inline;
+    image-resolution: 40px;
+  }
+
+  .right{
+    float: right;
+    font-size: 30px;
+  }
+  
+  .effect{
+     height: 300px;
+     float: right;
+  }
+
+  .what{
+    text-align: center;
+    font-size: 50px;
+  }
+  .exp{
+    font-size: 20px;
+    margin: 50px;
+  }
+
+  #img{
+    height: 300px;
+    margin-left: 80px;
+  }
+  
+  h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+  }
